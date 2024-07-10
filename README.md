@@ -1,7 +1,1 @@
-testando o readme da branch segunda-branch
- enviando para o local
-
-
- reenviando
- 
- 
+concluido estudo de receber e enviar repositorio.
