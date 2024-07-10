@@ -3,11 +3,11 @@ Meu projeto
 git init
 -iniciar novo projeto com git
 
-git add <nome-arquivo>
--add os arquivos estão prontos para serme commitados
+git add < nome-arquivo  >
+-add os arquivos estão prontos para serme comitados
 
 git commit -m ""
--commit os arquivos no historico
+-commita os arquivos no historico
 
 git log
 -mostra os ultimos commit, log de alterações
@@ -22,19 +22,19 @@ git diff
 git merge
 -merge de ramificações, mescla ramificções
 
-git checkout <nome-branch>
+git checkout < nome-branch >
 -muda pra essa branch
 
-git branch -v <nome da branch>
-- criar uma nova brancj a partir da branch atual que estamos
+git branch -v < nome da branch >
+-criar uma nova branch a partir da branch atual que estamos
 
-git remote add <nome> <url>
--add m novo repositorio remoto
+git remote add < nome > < url >
+-add novo repositorio remoto
 
-git push <nome> <nome-branch>
--manda nossa alterações locais para o repositorio remoot, pra cada branch
+git push < nome > < nome-branch >
+-manda nossa alterações locais para o repositorio remoto, pra cada branch
 
-git pull <nome> <nome da branch>
+git pull < nome > < nome da branch >
 -pega as alterações do repositorio remoto e joga pra nossa maquina
 
 git fetch
